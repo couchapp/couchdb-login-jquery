@@ -26,6 +26,8 @@ Example Usage with optional `loggedIn` and `loggedOut` callbacks:
    
 # Other
 
+Join other CouchApp devs http://groups.google.com/group/couchapp
+
 Copyright Chris Anderson 2011
 
 Apache 2.0 License
