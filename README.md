@@ -2,7 +2,7 @@
 
 If you write CouchApps using jQuery but don't want to use [Evently](http://github.com/couchapp/evently), this is what you want. It is the simplest way to add login to your app.
 
-It weighs in a 70 lines of JS, or about 2kb minified.
+It weighs in at 70 lines of JS, or about 2kb minified.
 
 ## Usage
 
